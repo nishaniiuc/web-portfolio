@@ -1,0 +1,161 @@
+body {
+    font-family: sans-serif;
+    color: #777777;
+    line-height: 20px;
+    margin: 0px;
+}
+.fav-color {
+    color: #e9880a;
+}
+
+.half-width{
+    width: 600px;
+    float:left;
+    padding-top: 100px;
+    padding-left:  100px;
+}
+.half-width2{
+    width: 600px;
+    float:left;
+    padding-top: 200px;
+    padding-left:  100px;
+}
+.recent_title{
+    width: 100%;
+
+}
+#recent{
+    text-align: center;
+}
+.side-img{
+    width: 400px;
+    padding-right: 50%;
+}
+
+.container1{
+    background-image: url(img/header.png);
+    background-size: 100%;
+    background-position: center;
+    padding-left:5%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+
+}
+.container2{
+    background-image: url(img/biograp.png);
+    background-position: center;
+    background-size: 100%;
+    padding-left:5%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+
+}
+.container3{
+    background-image: url(img/recent.png);
+    background-size: 100%;
+    background-position: center;
+    padding-left:5%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+
+}
+.primary-btn {
+    color: white;
+    background-color: #0c9751;
+    padding: 14px 20px;
+    margin: auto;
+    float: left;
+    border-radius: 15px;
+    text-decoration: none;
+}
+h1{
+    font-size: 3.5em;
+}
+#work_image{
+    width: 100%;
+    height: 600px;
+    
+}
+.recent_image{
+    float: left;
+    width: 25%;
+    margin-top: 5%;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.recent_image img{
+    width: 100%;
+}
+.section-footer{
+    
+    background-image: url("img/footer.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+.clients{
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.clients-details{
+    text-align: center;
+    
+    
+}
+
+#job-position{
+    font-size: 12px;
+    font-weight: 100;
+    margin-top: 0px;
+}
+.quotes{
+   text-align: center;
+    margin: 20px 450px;
+}
+
+.contact{
+    text-align: center;
+    background-image: linear-gradient(45deg, rgb(224, 124, 84), rgb(230, 144, 16));
+    margin: 40px 400px;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.single-line{
+    
+    display: block;
+
+}
+
+.message{
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    color: #fff;
+    
+}
+
+.address{
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+
+
+.footer-class{
+    font-weight: 100;
+    font-size: 14px;
+    margin-top: 50px;
+    text-align: center;
+}
